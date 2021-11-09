@@ -1,0 +1,48 @@
+
+div {
+    
+    padding: 0.5em;
+}
+
+
+p {
+    margin-bottom: 1em;
+}
+
+input {
+    width: 100%;
+
+}
+
+#beviteli {
+    margin-left: auto;
+    margin-right: auto;
+    background-color:lavender;
+    width: 25%;
+    border-radius: 5px;
+}
+#elonezet {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+}
+
+#megjelenites {
+    text-align: center;
+}
+#megjelenito {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius: 5px;
+    line-break:normal;
+
+}
+
+.alaphelyzet {
+    text-align: center;
+}
+
+
+
